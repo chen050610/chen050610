@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on ...
 ### ![Github Stats](https://github-readme-stats.vercel.app/api?username=chen050610&show_icons=true&theme=dark&count_private=true)
+### ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chen050610&theme=dark&layout=compact)
+### <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
 
 <!--
 **chen050610/chen050610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
