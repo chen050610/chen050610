@@ -1,7 +1,5 @@
 ### Hi there 👋
 ### 努力让以后过的简单自由洒脱
-### ![Github Stats](https://github-readme-stats.vercel.app/api?username=chen050610&show_icons=true&theme=dark&count_private=true)
-### ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chen050610&theme=dark&layout=compact)
 ### <div align="center"> <img src="https://hututu345.oss-cn-beijing.aliyuncs.com/typora/e97ca2de98859f92b10ffa483c26b02.jpg" /> </div>
 
 
