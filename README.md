@@ -1,4 +1,4 @@
-### 努力让以后过的简单自由洒脱
+### <h1>努力让以后过的简单自由洒脱</h1>
 ### <div align="center"> <img src="https://hututu345.oss-cn-beijing.aliyuncs.com/typora/e97ca2de98859f92b10ffa483c26b02.jpg" /> </div>
 
 
